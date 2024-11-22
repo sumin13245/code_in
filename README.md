@@ -28,12 +28,12 @@ Add Logo to PNGs with Background
 
 Installation
 
-	1.	Install the required Python libraries:
+Install the required Python libraries:
 
 pip install pillow moviepy tqdm natsort  
 
 
-	2.	Fonts:
+Fonts:
 Ensure a compatible font file (e.g., Arial) is accessible on your system. Update the script paths as necessary.
 
 Notes
