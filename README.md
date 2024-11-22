@@ -1,30 +1,31 @@
 
-Code-in: Transform Images, GIFs, and Videos into ASCII Art
+**Code-in: Transform Images, GIFs, and Videos into ASCII Art**
 
 This project provides a suite of tools to convert images, GIFs, and videos into stunning ASCII art. Whether you want to add custom logos, handle various formats, or export results in multiple ways, this toolkit has you covered!
 
-Features
+**Features**
 
 Image to ASCII Art Conversion
 
-		Converts images or GIFs into ASCII art.
-		Processes each frame of a GIF into ASCII art PNGs.
-		Reassembles frames into ASCII-styled GIFs.
-		Customizable font sizes, character spacing, and output dimensions.
+**Converts images or GIFs into ASCII art.**
 
-Video to ASCII Art Conversion
-		Transforms videos into ASCII art sequences.
-		Exports results as MP4 videos with synchronized audio.
+**Processes each frame of a GIF into ASCII art PNGs.**
 
-Add Logo to GIFs
+**Reassembles frames into ASCII-styled GIFs.**
 
-		Overlays a logo onto GIF frames while maintaining transparency and alignment.
-		Saves the output as a new GIF.
+**Customizable font sizes, character spacing, and output dimensions.**
 
-Add Logo to PNGs with Background
+**Video to ASCII Art Conversion**
+>> Transforms videos into ASCII art sequences.
+>> Exports results as MP4 videos with synchronized audio.
 
-		Adds a black background to PNGs and overlays a logo in the bottom-right corner.
-		Outputs results as PNG files.
+**Add Logo to GIFs**
+>> Overlays a logo onto GIF frames while maintaining transparency and alignment.
+>> Saves the output as a new GIF.
+
+**Add Logo to PNGs with Background**
+>> Adds a black background to PNGs and overlays a logo in the bottom-right corner.
+>> Outputs results as PNG files.
 
 Installation
 
@@ -39,11 +40,11 @@ Install the required Python libraries:
 
 
 Fonts:
-	 	Ensure a compatible font file (e.g., Arial) is accessible on your system. Update the script paths as necessary.
+>> Ensure a compatible font file (e.g., Arial) is accessible on your system. Update the script paths as necessary.
 
 Notes
-		Output settings, such as font size, spacing, and colors, can be customized within each script.
-		Ensure all input files (GIFs, videos, logos) are placed in the appropriate directories.
+>> Output settings, such as font size, spacing, and colors, can be customized within each script.
+>> Ensure all input files (GIFs, videos, logos) are placed in the appropriate directories.
  
 
 Contributing
