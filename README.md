@@ -45,4 +45,4 @@ Contributing
 
 Feel free to modify or enhance these scripts! Contributions are always welcome.
 
-You can now copy and paste this directly into your GitHub README.md file! Let me know if you’d like any additional changes. 😊
+You can now copy and paste this directly into your GitHub README.md file! Let me know if you’d like any additional changes. ;)
