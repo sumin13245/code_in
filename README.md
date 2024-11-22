@@ -1,4 +1,4 @@
-Code-in
+Code-in
 
 This project provides a suite of tools to transform images, GIFs, and videos into ASCII art. The toolkit includes functionality for adding logos, handling different formats, and exporting results. Below is a brief guide to the main scripts and their purposes.
 
