@@ -30,11 +30,11 @@ Installation
 
 Install the required Python libraries:
 
-pip install pillow moviepy tqdm natsort  
+	•	pip install pillow moviepy tqdm natsort  
 
 
 Fonts:
-Ensure a compatible font file (e.g., Arial) is accessible on your system. Update the script paths as necessary.
+	•	Ensure a compatible font file (e.g., Arial) is accessible on your system. Update the script paths as necessary.
 
 Notes
 	•	Output settings, such as font size, spacing, and colors, can be customized within each script.
